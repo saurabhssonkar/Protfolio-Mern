@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Protfolio-Mern/static/css/main.c17a8271.css",
+    "main.js": "/Protfolio-Mern/static/js/main.43e988cb.js",
+    "static/media/logo12.png": "/Protfolio-Mern/static/media/logo12.7e14bc1cb3b742d3e983.png",
+    "static/media/vg.png": "/Protfolio-Mern/static/media/vg.bdfa5f7019af540184c0.png",
+    "static/media/logo0.jpg": "/Protfolio-Mern/static/media/logo0.2ebb5d42993451375ad3.jpg",
+    "index.html": "/Protfolio-Mern/index.html",
+    "main.c17a8271.css.map": "/Protfolio-Mern/static/css/main.c17a8271.css.map",
+    "main.43e988cb.js.map": "/Protfolio-Mern/static/js/main.43e988cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17a8271.css",
+    "static/js/main.43e988cb.js"
+  ]
+}
